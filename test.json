@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "cahya",
+      "location": "indonesia"
+    },
+    {
+      "id": 2,
+      "name": "sam",
+      "location": "england"
+    },
+    {
+      "name": "xin",
+      "location": "china",
+      "id": 3
+    },
+    {
+      "name": "alex",
+      "location": "usa",
+      "id": 4
+    },
+    {
+      "name": "jeremy",
+      "location": "germany",
+      "id": 5
+    },
+    {
+      "name": "pablo",
+      "location": "ekuador",
+      "id": 6
+    }
+  ]
+}
